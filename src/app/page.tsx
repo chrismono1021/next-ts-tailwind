@@ -36,7 +36,7 @@ export default function HomePage() {
             Import, Seo, Link component, pre-configured with Husky{' '}
           </p>
           <p className='mt-2 text-sm text-gray-700'>
-            <ArrowLink href='https://github.com/theodorusclarence/ts-nextjs-tailwind-starter'>
+            <ArrowLink href='https://github.com/chrismono1021/next-ts-tailwind'>
               See the repository
             </ArrowLink>
           </p>
